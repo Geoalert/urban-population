@@ -5,7 +5,7 @@ export const Tokens = {
   development:
     "pk.eyJ1IjoiZHF1bmJwIiwiYSI6ImNqd3VuaGZyeTAwYTEzeW1oeHo3NHh1cnMifQ.AzNgwn8crwuAXGPmasjlzA",
   production:
-    "pk.eyJ1IjoiZHF1bmJwIiwiYSI6ImNrOTJyOW0wMjAybWQzaHBiZ3Z3b2tvOWUifQ.rcb979vUWNbWpApKcHr8vg",
+    "pk.eyJ1IjoiZHF1bmJwIiwiYSI6ImNrbDI0MzhjMDBtcWQybm80a3pzOWdvZ2EifQ.sydVBU8QhWp5EwKy7QvznA",
 };
 
 const stylePath = "mapbox://styles/mapbox";
